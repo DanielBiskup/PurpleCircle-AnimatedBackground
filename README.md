@@ -1,6 +1,6 @@
 # Purple Circle - Animated Wallpaper for Android
 <a href="https://www.shadertoy.com/view/ssSyDd">
-    <img src="ScreenCapture.gif" align="left" height="600" >
+    <img src="gifs/880.64KiB.gif" align="center" height="600" >
 </a>
 
 ## Hot to use it as Android wallpaper
